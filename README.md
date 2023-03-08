@@ -1,7 +1,5 @@
 ### Hi there, I'm a beginner Frontend-Developer. 👋
 
-<img src="https://komarev.com/ghpvc/?username=te1epuz&label=Profile%20views&color=0e75b6&style=flat" alt="te1epuz" />
-
 ## Stack
 ![HTML](https://img.shields.io/badge/HTML-D83A56?style=flat-square-endpoint&logo=html5&labelColor=F3F3F3) ![CSS](https://img.shields.io/badge/CSS-2E4C6D?style=flat-square-endpoint&logo=css3) ![SASS](https://img.shields.io/badge/SASS-FEFEFE?style=flat-square-endpoint&logo=sass) ![JavaScript](https://img.shields.io/badge/JavaScript-5089C6?style=flat-square-endpoint&logo=javascript&logoColor=) ![TypeScript](https://img.shields.io/badge/TypeScript-EEEEEE?style=flat-square-endpoint&logo=typescript&logoColor=) ![React](https://img.shields.io/badge/React-2E4C6D?style=flat-square-endpoint&logo=react&logoColor=) ![Git](https://img.shields.io/badge/Git-6E85B2?style=flat-square-endpoint&logo=git&logoColor=) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-6E85B2?style=flat-square-endpoint&logo=visualstudiocode&logoColor=blue&labelColor=EADEDE) ![Webpack](https://img.shields.io/badge/Webpack-blue?style=flat-square-endpoint&logo=webpack&labelColor=F3F3F3&logoColor=blue) ![Figma](https://img.shields.io/badge/Figma-892CDC?style=flat-square-endpoint&logo=figma&logoColor=892CDC&labelColor=EADEDE)
 
@@ -20,6 +18,7 @@
 ### Statistics & Languages
 ![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=te1epuz&layout=compact)
 ![STATS](https://github-readme-stats.vercel.app/api?username=te1epuz)
+<img src="https://komarev.com/ghpvc/?username=te1epuz&label=Profile%20views&color=0e75b6&style=flat" alt="te1epuz" />
 <!--
 **te1epuz/te1epuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
