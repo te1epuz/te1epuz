@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm a beginner Frontend-Developer. 👋
+
+<img src="https://komarev.com/ghpvc/?username=te1epuz&label=Profile%20views&color=0e75b6&style=flat" alt="te1epuz" />
 
 <!--
 **te1epuz/te1epuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
