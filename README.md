@@ -10,6 +10,9 @@
 ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-%40Te1epuz-blue?style=flat-square-endpoint&logo=telegram&logoColor=blue&labelColor=EEEEEE)](https://t.me/Te1epuz) [![Discord](https://img.shields.io/badge/Discord-%40Tappa%238144-blue?style=flat-square-endpoint&logo=discord&logoColor=blue&labelColor=EEEEEE)](https://discordapp.com/users/253274270031937537) [![Gmail](https://img.shields.io/badge/Gmail-a.a.martinovich@gmail.com-red?style=flat-square-endpoint&logo=gmail&logoColor=red&labelColor=FFFFFF)](mailto:a.a.martinovich@gmail.com) 
 
+### Statistics & Languages
+![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=te1epuz&layout=compact)
+![STATS](https://github-readme-stats.vercel.app/api?username=te1epuz)
 <!--
 **te1epuz/te1epuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
