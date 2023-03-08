@@ -10,6 +10,13 @@
 ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-%40Te1epuz-blue?style=flat-square-endpoint&logo=telegram&logoColor=blue&labelColor=EEEEEE)](https://t.me/Te1epuz) [![Discord](https://img.shields.io/badge/Discord-%40Tappa%238144-blue?style=flat-square-endpoint&logo=discord&logoColor=blue&labelColor=EEEEEE)](https://discordapp.com/users/253274270031937537) [![Gmail](https://img.shields.io/badge/Gmail-a.a.martinovich@gmail.com-red?style=flat-square-endpoint&logo=gmail&logoColor=red&labelColor=FFFFFF)](mailto:a.a.martinovich@gmail.com) 
 
+## Some Projects
+- (SPA) [Online Store](https://te1epuz-online-store.netlify.app/) - online-store, using React & TypeScript [source](https://github.com/te1epuz/online-store/tree/develop)
+- (SPA) [Songbird](https://te1epuz.github.io/songbird/songbird/index.html) - quiz-game, JavaScript [source](https://github.com/te1epuz/songbird/tree/songbird/songbird)
+- (SPA) [Gem Puzzle](https://te1epuz.github.io/gem-puzzle/gem-puzzle/index.html) - game, JavaScript [source](https://github.com/te1epuz/gem-puzzle/tree/gem-puzzle/gem-puzzle)
+- (SPA) [Momentum](https://te1epuz.github.io/momentum/momentum/index.html) - copy of Momentum Google Chrome extension using JavaScript [source](https://github.com/te1epuz/momentum/tree/momentum/momentum)
+- [Online Zoo](https://te1epuz.github.io/online-zoo/online-zoo/pages/main/index.html) - welcome site (2 pages) [source](https://github.com/te1epuz/online-zoo/tree/online-zoo/online-zoo)
+
 ### Statistics & Languages
 ![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=te1epuz&layout=compact)
 ![STATS](https://github-readme-stats.vercel.app/api?username=te1epuz)
