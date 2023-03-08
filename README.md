@@ -16,8 +16,8 @@
 - [Online Zoo](https://te1epuz.github.io/online-zoo/online-zoo/pages/main/index.html) - welcome site (2 pages) [source](https://github.com/te1epuz/online-zoo/tree/online-zoo/online-zoo)
 
 ### Statistics & Languages
-![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=te1epuz&layout=compact)
 ![STATS](https://github-readme-stats.vercel.app/api?username=te1epuz)
+![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=te1epuz&layout=compact)  
 <img src="https://komarev.com/ghpvc/?username=te1epuz&label=Profile%20views&color=0e75b6&style=flat" alt="te1epuz" />
 <!--
 **te1epuz/te1epuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
